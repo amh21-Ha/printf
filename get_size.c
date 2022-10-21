@@ -1,4 +1,5 @@
 #include "main.h"
+/*...size...*/
 
 /**
  * get_size - Calculates the size to cast the argument
